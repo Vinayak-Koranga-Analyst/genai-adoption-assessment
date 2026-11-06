@@ -54,7 +54,7 @@ flowchart LR
 
 | Area | Assessment | Rating |
 |---|---|---|
-| **Technical** | Text classification of short emails is well established. The prototype in this repo reaches useful accuracy on synthetic data with a small open model. The HMS has an API for creating repair orders (to be confirmed with the supplier). | Feasible, with HMS API to confirm |
+| **Technical** | The [prototype](notebooks/triage_prototype.ipynb) suggests the trade correctly 84% of the time on synthetic data, using a small open model. Priority is much weaker (44%), and rules plus AI flagged 21 of 24 emergencies. Trade suggestions look feasible; priority and emergency detection are not yet proven and must be tested on real historical emails. The HMS has an API for creating repair orders (to be confirmed with the supplier). | Feasible for trade; priority not yet proven |
 | **Data** | 12 months of historical emails with the trade and priority advisers chose can be used to test accuracy. They contain personal data, so testing must happen within the DPIA. | Feasible, subject to DPIA |
 | **Operational** | Advisers keep the decision, so the change to their role is small. Training: about 2 hours. | Feasible |
 | **Financial** | About £44,000 in year 1; payback in about 14 months on time saved alone (see [options appraisal](02-options-appraisal.md)). | Feasible |

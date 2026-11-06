@@ -22,16 +22,42 @@ Brookvale Homes manages about 12,000 homes. Tenants report around 2,600 repairs 
 
 Proceed only once the DPIA is signed off and the go/no-go measures in the [pilot plan](05-success-measures-and-pilot.md) are agreed.
 
+## What the prototype found
+
+A small prototype ([notebook](notebooks/triage_prototype.ipynb)) tested the idea on 120 synthetic emails using a free, open Hugging Face model:
+
+| Measure | Result |
+|---|---|
+| Trade suggested correctly | 84% |
+| Priority suggested correctly | 44% |
+| Emergencies flagged by keyword rules only | 20 of 24 |
+| Emergencies flagged by rules **or** AI | 21 of 24 |
+
+![Emergency recall by approach](outputs/emergency_recall.png)
+
+Suggesting the trade works well, and that is where most of the adviser time saving comes from. Judging priority is much harder, and the combination still missed 3 emergencies. This supports two parts of the design: **an adviser checks every email**, and **the pilot starts in shadow mode**, testing on real historical emails before any suggestion is shown to staff.
+
 ## What's in the assessment
 
 | # | Document | Status |
 |---|---|---|
 | 01 | [Current state and problem](01-current-state.md) | Done |
-| 02 | Options appraisal | Next |
-| 03 | Requirements and feasibility | Next |
-| 04 | Risks, UK GDPR and DPIA screening | Next |
-| 05 | Success measures and pilot plan | Next |
-| – | Prototype notebook | Next |
+| 02 | [Options appraisal](02-options-appraisal.md): four options scored against weighted criteria | Done |
+| 03 | [Requirements and feasibility](03-requirements-and-feasibility.md) | Done |
+| 04 | [Risks, UK GDPR and DPIA screening](04-risks-and-data-protection.md) | Done |
+| 05 | [Success measures and pilot plan](05-success-measures-and-pilot.md) | Done |
+| – | [Prototype notebook](notebooks/triage_prototype.ipynb) and [synthetic data](data/) | Done |
+
+## Run the prototype
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+jupyter notebook notebooks/triage_prototype.ipynb
+```
+
+The first run downloads the `all-MiniLM-L6-v2` model (about 90 MB) from Hugging Face.
 
 ## Tools
 

@@ -1,0 +1,121 @@
+email_id,text,trade,priority
+E001,"Kitchen tap has been dripping for a week, it's getting worse and won't turn off fully.",plumbing,routine
+E002,"The toilet keeps running after flushing, can someone look at the cistern?",plumbing,routine
+E003,Water is pouring through the kitchen ceiling from the flat above and it's near the lights.,plumbing,emergency
+E004,"Bath plug hole is draining really slowly, think it's blocked.",plumbing,routine
+E005,Our only toilet is blocked and won't flush at all. There are four of us in the house.,plumbing,urgent
+E006,"There's a leak under the bathroom sink, I've put a bowl under it for now.",plumbing,urgent
+E007,"Burst pipe in the airing cupboard, water everywhere and I can't find the stopcock.",plumbing,emergency
+E008,Shower head is loose and the hose is split.,plumbing,routine
+E009,The outside drain is overflowing and smells awful.,plumbing,urgent
+E010,Washing machine pipe connection is leaking onto the floor every time it runs.,plumbing,urgent
+E011,Cold tap in the bathroom is very stiff and hard to turn.,plumbing,routine
+E012,"Sink in the kitchen is completely blocked, water just sits there.",plumbing,urgent
+E013,"Water coming through the light fitting in the hallway, it's dripping onto the floor.",plumbing,emergency
+E014,Toilet seat is broken and the hinge has snapped.,plumbing,routine
+E015,"Small drip from the pipe behind the toilet, not urgent but would like it checked.",plumbing,routine
+E016,No water coming out of any taps since this morning.,plumbing,emergency
+E017,The bath sealant has gone mouldy and is coming away from the wall.,plumbing,routine
+E018,Sewage is coming back up through the shower drain.,plumbing,emergency
+E019,Low water pressure in the shower for the last few weeks.,plumbing,routine
+E020,Overflow pipe outside is constantly dripping onto the path.,plumbing,routine
+E021,Socket in the bedroom is sparking when I plug anything in.,electrical,emergency
+E022,The light in the hallway doesn't work even with a new bulb.,electrical,routine
+E023,"We have no electricity in the whole flat, neighbours have power.",electrical,emergency
+E024,Extractor fan in the bathroom has stopped working.,electrical,routine
+E025,There's a burning smell coming from the fuse box.,electrical,emergency
+E026,The trip switch keeps going off when we use the kettle.,electrical,urgent
+E027,Kitchen light flickers on and off all evening.,electrical,routine
+E028,Smoke alarm keeps beeping even after I changed the battery.,electrical,urgent
+E029,Exposed wires hanging out of the wall where the light switch used to be.,electrical,emergency
+E030,Outside security light is not coming on at night.,electrical,routine
+E031,Cooker switch is cracked and gets hot.,electrical,urgent
+E032,Doorbell has stopped working.,electrical,routine
+E033,Half the sockets downstairs have no power.,electrical,urgent
+E034,The pull cord in the bathroom snapped and the light stays on.,electrical,routine
+E035,Heard a bang and now the plug socket is black and melted.,electrical,emergency
+E036,Carbon monoxide alarm is going off in the kitchen.,electrical,emergency
+E037,Light fitting in the living room is hanging loose from the ceiling.,electrical,urgent
+E038,TV aerial socket is loose in the wall.,electrical,routine
+E039,Emergency lighting in the communal stairwell is not working.,electrical,urgent
+E040,Storage heater switch is broken.,electrical,routine
+E041,We have no heating or hot water and my mum is 84 and on oxygen.,heating,emergency
+E042,Boiler is showing an error code and won't fire up.,heating,urgent
+E043,I can smell gas near the boiler in the kitchen.,heating,emergency
+E044,"One radiator upstairs is cold at the top, think it needs bleeding.",heating,routine
+E045,No hot water but the heating is working fine.,heating,urgent
+E046,Boiler is making a loud banging noise when the heating comes on.,heating,urgent
+E047,"Thermostat isn't responding, heating stays on all the time.",heating,routine
+E048,There's a funny smell near the boiler and I feel dizzy.,heating,emergency
+E049,Radiator valve in the bedroom is leaking slightly.,heating,routine
+E050,"No heating at all, it's freezing and I have a newborn baby.",heating,emergency
+E051,Boiler pressure keeps dropping and I have to top it up every day.,heating,urgent
+E052,Heating timer is broken so the heating comes on at the wrong times.,heating,routine
+E053,The pilot light on the gas fire keeps going out.,heating,urgent
+E054,Radiator in the living room is not getting warm at all.,heating,routine
+E055,"No heating or hot water since last night, it's cold but we're managing.",heating,urgent
+E056,Hot water is only lukewarm.,heating,routine
+E057,Boiler is leaking water onto the floor.,heating,urgent
+E058,Black marks around the gas fire and the room feels stuffy.,heating,emergency
+E059,"Can someone service the boiler, it's been over a year.",heating,routine
+E060,Radiator came away from the wall and is hanging off the bracket.,heating,urgent
+E061,Black mould is spreading across the bedroom ceiling and my son has asthma.,damp_mould,urgent
+E062,There's condensation on all the windows every morning.,damp_mould,routine
+E063,Damp patch on the living room wall is getting bigger.,damp_mould,routine
+E064,Mould behind the wardrobe has ruined our clothes.,damp_mould,urgent
+E065,The bathroom ceiling is covered in black spots of mould.,damp_mould,routine
+E066,Wallpaper is peeling off because the wall is wet.,damp_mould,routine
+E067,"Mould in the baby's room, she keeps coughing at night.",damp_mould,urgent
+E068,Musty smell in the hallway and the skirting boards feel damp.,damp_mould,routine
+E069,Plaster on the ceiling is bulging and wet and looks like it could come down.,damp_mould,emergency
+E070,"Damp coming up the walls downstairs, about a metre high.",damp_mould,routine
+E071,Green mould growing on the window frames in every room.,damp_mould,routine
+E072,My daughter is disabled and the damp in her room is making her chest worse.,damp_mould,urgent
+E073,Mould is back again two months after it was treated.,damp_mould,urgent
+E074,The kitchen wall is wet to touch after it rains.,damp_mould,routine
+E075,White fluffy mould on the carpet in the corner of the bedroom.,damp_mould,routine
+E076,"Severe damp and mould throughout the flat, we are all getting ill.",damp_mould,urgent
+E077,Damp smell in the cupboard under the stairs.,damp_mould,routine
+E078,Mould around the shower tray and on the grout.,damp_mould,routine
+E079,Water stains on the bedroom ceiling and the paint is bubbling.,damp_mould,routine
+E080,"Mould in every room and I'm pregnant, I'm really worried.",damp_mould,urgent
+E081,"Front door won't lock properly, the key just spins.",carpentry,urgent
+E082,Kitchen cupboard door has come off its hinges.,carpentry,routine
+E083,Back door was kicked in during a break-in last night and won't close.,carpentry,emergency
+E084,"Bedroom window won't shut, it's stuck open.",carpentry,urgent
+E085,Floorboard in the hallway is loose and creaks.,carpentry,routine
+E086,Stair handrail is wobbly and coming away from the wall.,carpentry,urgent
+E087,Window handle snapped off in the living room.,carpentry,routine
+E088,"Can't get out of the flat, the front door lock is jammed shut.",carpentry,emergency
+E089,Kitchen drawer runner is broken.,carpentry,routine
+E090,Glass in the back door is cracked right across.,carpentry,urgent
+E091,Internal door rubs on the carpet and won't close.,carpentry,routine
+E092,"Window pane smashed by a football, there's broken glass and a hole.",carpentry,emergency
+E093,Skirting board has come away in the bedroom.,carpentry,routine
+E094,The communal entrance door doesn't shut so anyone can walk in.,carpentry,urgent
+E095,Worktop next to the sink is swollen and lifting.,carpentry,routine
+E096,Letterbox flap has fallen off the front door.,carpentry,routine
+E097,Step on the stairs is split and I nearly fell.,carpentry,urgent
+E098,Shed door has blown off in the wind.,carpentry,routine
+E099,Bathroom door lock is stuck and my child is locked inside.,carpentry,emergency
+E100,Window seal has gone and the glass is misty between the panes.,carpentry,routine
+E101,Several roof tiles came off in the storm and rain is getting into the loft.,roofing,urgent
+E102,Gutter at the front is hanging down and overflowing.,roofing,routine
+E103,Part of the chimney has collapsed onto the path.,roofing,emergency
+E104,Water dripping into the bedroom from the roof when it rains.,roofing,urgent
+E105,"Moss growing all over the roof, is it ok?",roofing,routine
+E106,Downpipe is broken and water is pouring down the wall.,roofing,routine
+E107,A large piece of the roof blew off and there's a hole above the bedroom.,roofing,emergency
+E108,Flat roof on the extension has a puddle that never drains.,roofing,routine
+E109,Fascia board is rotten and coming loose.,roofing,routine
+E110,Ceiling in the top flat is stained after the heavy rain.,roofing,routine
+E111,Loose slates on the roof are rattling in the wind and could fall.,roofing,urgent
+E112,Gutters are full of leaves.,roofing,routine
+E113,Garden wall is leaning badly and children play next to it.,roofing,urgent
+E114,Loft has a leak above the water tank.,roofing,urgent
+E115,Brick has fallen out of the wall above the front door.,roofing,urgent
+E116,Roof is leaking onto the electrics in the loft.,roofing,emergency
+E117,Bird nest blocking the gutter.,roofing,routine
+E118,Pointing on the outside wall is crumbling.,roofing,routine
+E119,Water comes in round the chimney breast in heavy rain.,roofing,routine
+E120,Fence panel blew down in the storm.,roofing,routine

@@ -18,7 +18,7 @@ Brookvale Homes manages about 12,000 homes. Tenants report around 2,600 repairs 
 
 ## Recommendation (summary)
 
-**Go ahead with a 12-week pilot of option C: AI suggests, a person decides.** The AI suggests a category and urgency for each email, a rules layer catches safety keywords so emergencies are never left to the model, and staff confirm every suggestion before it reaches the repairs system. Full automation (option D) is not recommended: the cost of a missed emergency is too high and the time saved over option C is small.
+**Go ahead with a 12-week pilot of option C: AI suggests, a person decides.** The AI suggests a category and urgency for each email, a rules layer catches safety keywords so emergencies are never left to the model, and staff confirm every suggestion before it reaches the repairs system. Full automation (option D) is not recommended: the cost of a missed emergency is too high and the time saved over option C is small. Because the prototype shows that judging priority is not yet reliable, the pilot's first step is a test on real historical emails, and the AI's priority suggestions are only shown to staff if they pass.
 
 Proceed only once the DPIA is signed off and the go/no-go measures in the [pilot plan](05-success-measures-and-pilot.md) are agreed.
 

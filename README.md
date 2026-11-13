@@ -4,6 +4,8 @@
 
 An assessment of whether Brookvale Homes should use AI to sort and prioritise the repair requests that tenants send by email. It covers the current process, the options, feasibility, risks and UK GDPR, how success would be measured, and a pilot plan. A small prototype tests whether the idea works on sample data.
 
+**Case study on my website:** a shorter write-up of this project is at [vinayakkoranga.com](https://vinayakkoranga.com/case-studies/genai-repairs-triage/).
+
 ## The business problem
 
 Brookvale Homes manages about 12,000 homes. Tenants report around 2,600 repairs a month by email. Two contact centre staff read each email, decide what kind of repair it is and how urgent it is, and log it in the housing management system.
